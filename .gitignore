@@ -1,0 +1,12 @@
+# secrets & local state
+token.txt
+*.log
+.DS_Store
+# build
+app/build/
+app/app/build/
+app/.gradle/
+app/.kotlin/
+app/local.properties
+# local dev harness (machine-specific)
+harness/

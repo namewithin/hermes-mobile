@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hermes</string>
+    <string name="pick_files">Choose files</string>
+    <string name="downloading">Downloading: %1$s</string>
+    <string name="channel_name">Hermes replies</string>
+    <string name="setup_title">Connect to Hermes</string>
+    <string name="setup_hint">Scan the QR code printed by server/install.sh on your Mac, or paste the hermesmobile://… link into the address field. Manual: your Mac\'s Tailscale address (port 9120) and the token from ~/.hermes-mobile/token.</string>
+    <string name="token_hint">Token</string>
+    <string name="connect">Connect</string>
+    <string name="save_anyway">Save without checking</string>
+    <string name="checking">Checking…</string>
+    <string name="bad_token">The server answered, but the token was rejected.</string>
+    <string name="unreachable">Server unreachable (%1$s). Is Tailscale on?</string>
+    <string name="shortcut_setup">Connection</string>
+</resources>

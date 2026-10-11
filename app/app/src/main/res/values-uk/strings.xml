@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hermes</string>
+    <string name="pick_files">Виберіть файли</string>
+    <string name="downloading">Завантаження: %1$s</string>
+    <string name="channel_name">Відповіді Hermes</string>
+    <string name="setup_title">Підключення до Hermes</string>
+    <string name="setup_hint">Відскануйте QR-код, який показує server/install.sh на маку, або вставте посилання hermesmobile://… у поле адреси. Вручну: адреса мака в Tailscale (порт 9120) і токен з ~/.hermes-mobile/token.</string>
+    <string name="token_hint">Токен</string>
+    <string name="connect">Підключитися</string>
+    <string name="save_anyway">Зберегти без перевірки</string>
+    <string name="checking">Перевіряю…</string>
+    <string name="bad_token">Сервер відповів, але токен не підходить.</string>
+    <string name="unreachable">Сервер недоступний (%1$s). Чи увімкнено Tailscale?</string>
+    <string name="shortcut_setup">Підключення</string>
+</resources>

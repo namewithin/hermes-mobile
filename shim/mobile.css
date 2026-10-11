@@ -1,0 +1,4 @@
+/* Hermes Mobile: touch-friendly tweaks on top of the desktop renderer. */
+html.hermes-mobile, html.hermes-mobile body { overscroll-behavior: none; -webkit-tap-highlight-color: transparent; }
+html.hermes-mobile [contenteditable=true], html.hermes-mobile textarea, html.hermes-mobile input { font-size: 16px !important; }
+html.hermes-mobile ::-webkit-scrollbar { width: 0; height: 0; }
