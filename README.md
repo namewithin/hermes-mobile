@@ -1,5 +1,8 @@
 # Hermes Mobile
 
+> **Unofficial.** Hermes Mobile is an independent community project. It is not affiliated with, endorsed by, or
+> supported by Nous Research. "Hermes" and the Hermes logo belong to their respective owners.
+
 An Android app for your [Hermes Agent](https://github.com/NousResearch/hermes-agent) running on a Mac. Over
 [Tailscale](https://tailscale.com), you get the full Hermes Desktop experience on your phone: every chat, live
 streaming, file attachments, voice dictation, model and profile switching, slash commands, approvals, and
@@ -91,3 +94,8 @@ To reopen setup later, long-press the app icon and choose **Connection**.
 
 - The token is a full-access credential to your Hermes. Anyone on your tailnet who has it can drive your agent.
 - The traffic is plain HTTP inside Tailscale's WireGuard tunnel. Don't expose port 9120 outside the tailnet.
+
+## License
+
+MIT; see [LICENSE](LICENSE). The app icon and the bundled Hermes Desktop renderer come from
+[Hermes Agent](https://github.com/NousResearch/hermes-agent) (MIT, © Nous Research).
