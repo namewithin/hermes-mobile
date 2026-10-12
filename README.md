@@ -97,5 +97,5 @@ To reopen setup later, long-press the app icon and choose **Connection**.
 
 ## License
 
-MIT; see [LICENSE](LICENSE). The app icon and the bundled Hermes Desktop renderer come from
+MIT; see [LICENSE](LICENSE) and [NOTICE](NOTICE). The app icon and the bundled Hermes Desktop renderer come from
 [Hermes Agent](https://github.com/NousResearch/hermes-agent) (MIT, © Nous Research).
